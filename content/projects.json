@@ -251,7 +251,7 @@
               "name": "outlined-path-layer",
               "url": "https://github.com/ubilabs/outlined-path-layer",
               "image": "/visgl/images/frameworks/deck.gl-community.png",
-              "description": "Custom deck.gl layer by Ubilabs that renders paths with customizable outlines (halo effect)."
+              "description": "Custom PathLayer by Ubilabs that renders paths with customizable outlined borders"
             }
           ]
         }
