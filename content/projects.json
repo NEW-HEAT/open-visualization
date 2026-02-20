@@ -246,6 +246,12 @@
               "url": "https://microsoft.github.io/SandDance/",
               "image": "/visgl/images/frameworks/deck.gl-community.png",
               "description": "Unit visualization explorer by Microsoft, using deck.gl for rendering."
+            },
+            {
+              "name": "outlined-path-layer",
+              "url": "https://github.com/ubilabs/outlined-path-layer",
+              "image": "/visgl/images/frameworks/deck.gl-community.png",
+              "description": "Custom PathLayer by Ubilabs that renders paths with customizable outlined borders"
             }
           ]
         }
