@@ -110,6 +110,24 @@
               "url": "https://visgl.github.io/deck.gl-community",
               "image": "https://images.prismic.io/open-visualization/Z1s945bqstJ98bvz_arrow-logo-hex.png?auto=format,compress",
               "description": "Arrow visualization layers for deck.gl."
+            },
+            {
+              "name": "@deck.gl-community/layers",
+              "url": "https://visgl.github.io/deck.gl-community",
+              "image": "/visgl/images/frameworks/deck.gl-community.png",
+              "description": "Additional community-contributed layers for deck.gl."
+            },
+            {
+              "name": "@deck.gl-community/react",
+              "url": "https://visgl.github.io/deck.gl-community",
+              "image": "/visgl/images/frameworks/deck.gl-community.png",
+              "description": "React components for deck.gl."
+            },
+            {
+              "name": "@deck.gl-community/widgets",
+              "url": "https://visgl.github.io/deck.gl-community",
+              "image": "/visgl/images/frameworks/deck.gl-community.png",
+              "description": "UI widgets for deck.gl."
             }
           ]
         },
@@ -195,6 +213,39 @@
               "url": "https://github.com/visgl/dev-tools",
               "image": "https://open-visualization.cdn.prismic.io/open-visualization/Z11pWZbqstJ98gAs_gear.svg",
               "description": "Development tools for vis.gl frameworks."
+            }
+          ]
+        },
+        {
+          "title": "Ecosystem",
+          "category": "ecosystem",
+          "layout": "full",
+          "theme": "default",
+          "description": "An [awesome list](https://github.com/sindresorhus/awesome) of external projects that use or integrate with deck.gl. [Suggest a project](https://github.com/visgl/open-visualization/issues/new).",
+          "entries": [
+            {
+              "name": "Viv",
+              "url": "https://avivator.gehlenborglab.org/",
+              "image": "/visgl/images/frameworks/deck.gl-community.png",
+              "description": "Multiscale bioimaging visualization on the web, built with deck.gl."
+            },
+            {
+              "name": "deck.gl-raster",
+              "url": "https://github.com/developmentseed/deck.gl-raster",
+              "image": "/visgl/images/frameworks/deck.gl-community.png",
+              "description": "GPU-accelerated raster visualization layers for deck.gl."
+            },
+            {
+              "name": "Flowmap.blue",
+              "url": "https://flowmap.blue/",
+              "image": "/visgl/images/frameworks/FlowmapBlue.jpg",
+              "description": "Flow map visualization tool for geographic movement data, powered by deck.gl."
+            },
+            {
+              "name": "SandDance",
+              "url": "https://microsoft.github.io/SandDance/",
+              "image": "/visgl/images/frameworks/deck.gl-community.png",
+              "description": "Unit visualization explorer by Microsoft, using deck.gl for rendering."
             }
           ]
         }
