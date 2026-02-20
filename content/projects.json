@@ -79,7 +79,7 @@
           "category": "extensions",
           "layout": "half",
           "theme": "purple",
-          "description": "Examples of community-maintained extensions. Some modules may be incomplete or need maintenance — see [open issues](https://github.com/visgl/deck.gl-community/issues/485) for active work.",
+          "description": "Examples of community-maintained extensions",
           "entries": [
             {
               "name": "hubble.gl",
